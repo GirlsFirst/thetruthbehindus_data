@@ -8,6 +8,11 @@
    "title":"Athletics",
    "path":"athletics",
    "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/athletics.png"
+  },
+  {
+   "title":"Literature",
+   "path":"literature",
+   "image":"https://raw.githubusercontent.com/GirlsFirst/thetruthbehindus_data/develop/images/professions/literature.png"
   },  
   {
    "title":"Business",
