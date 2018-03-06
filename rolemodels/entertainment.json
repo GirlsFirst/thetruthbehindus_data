@@ -111,7 +111,7 @@
 	},
 	{
 		"name": "Ellen DeGeneres",
-		"ethnicity": " American",
+		"ethnicity": "American",
 		"birthdate": "January 26, 1958",
 		"birth_place": "Metairie, Louisiana, U.S.",
 		"occupation": "Ellen DeGeneres is an American tv host, comedian , writer, and producer. She had starred in a popular sitcom called Ellen from the years 1994-1998. She had appeared in the famous childhood movies Finding Nemo and Finding Dory.",
@@ -121,7 +121,9 @@
 			"https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/entertainment/ellendeGeneres.jpg",
 			"https://github.com/rolemodelsgwc/THETRUTHBEHINDUS.html/blob/master/ellendegen.jpg"
 		],
-		"urls": {}
+		"urls": {
+			"wikipedia": "https://en.wikipedia.org/wiki/Ellen_DeGeneres"
+		}
 	},
 	{
 		"name": "Rita Moreno",
