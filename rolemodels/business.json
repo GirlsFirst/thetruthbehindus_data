@@ -33,7 +33,7 @@
 		"ethnicity": "Saudi",
 		"birthdate": "August 4, 1955",
 		"birth_place": "Saudi Arabia",
-		"occupation": "Lubna Olayan is a Saudi business woman. Considered to be one of the most influential business women in the world; as was listed as one of the top 100 most influential people of 2005 by Time magazine, and has continued to be on the Forbes list of most powerful women till 2011 and has returned to the list in 2014. In 2004, Ms. Olayan was the first woman in Saudi history to deliver an opening keynote address at a major conference in Saudi Arabia; at the Jeddah Economic Forum. As of 2014, she is listed as the 86th most powerful woman in the world by Forbes. ",
+		"occupation": "Lubna Olayan is a Saudi business woman. Considered to be one of the most influential business women in the world; as was listed as one of the top 100 most influential people of 2005 by Time magazine, and has continued to be on the Forbes list of most powerful women till 2011 and has returned to the list in 2014. In 2004, Ms. Olayan was the first woman in Saudi history to deliver an opening keynote address at a major conference in Saudi Arabia; at the Jeddah Economic Forum. As of 2014, she is listed as the 86th most powerful woman in the world by Forbes.",
 		"achievements": "In February 2005, Olayan was appointed as a non-executive director to the Board of WPP, and in December 2004, was elected to sit on the Board of the Saudi Hollandi Bank, a publicly listed company in Saudi Arabia. In September 2006 and April 2007, she joined the International Advisory Boards of Rolls-Royce and Citigroup, respectively. Olayan also served on the Board of Chelsfield plc, the UK property developer, from 1996 to 2004. She is a member of the International Business Council of the World Economic Forum, and the International Advisory Board of the Council on Foreign Relations, which she joined in November and December 2005 respectively. In 2010, she was awarded the Cornell Entrepreneur of the Year. As of 2014, she is listed as the 86th most powerful woman in the world by Forbes. In terms of education and philanthropy, Olayan joined the Board of Directors of INSEAD in December 2005, and has been a member of its International Council since March 1997. In April 2007, she was elected as a member of the Board of Trustees for Cornell University. Olayan also joined the Advisory Board of Effat College, a private and non-profit girls college in Jeddah, Saudi Arabia, in April 2006. She is also a board member at Alfanar, the first venture philanthropy organization focussing on the Arab Region founded by Tarek Ben Halim in 2004. Olayan has served on the Board of Trustees of the Arab Thought Foundation, a think tank based in Beirut focusing on issues facing the Arab world, since January 2000.",
 		"images": [
 			"https://fortunedotcom.files.wordpress.com/2015/09/glo-09-15-15-e16-lubna-olayan.jpg?w=840&h=485&crop=1",
@@ -111,14 +111,14 @@
 		],
 		"urls": {
 			"Lampkin's TED Talk, 'How to Transcend the Lottery of Birth'": "https://www.youtube.com/watch?v=nSfVEZWCaYo",
-			"CNN 15 Questions with Stephanie Lampkin" : "http://money.cnn.com/interactive/technology/15-questions-with-stephanie-lampkin/"
+			"CNN 15 Questions with Stephanie Lampkin": "http://money.cnn.com/interactive/technology/15-questions-with-stephanie-lampkin/"
 		}
-},
- {
+	},
+	{
 		"name": "Arianna Huffington",
 		"ethnicity": "Greek",
-		“birthdate”: "July 15, 1950",
-		“birth_place”: "Athens, Greece",
+		"birthdate": "July 15, 1950",
+		"birth_place": "Athens, Greece",
 		"education": "University of Cambridge",
 		"occupation": "Arianna Huffington was born in Athens, Greece but moved to Great Britain to study at the University of Cambridge, earning her master's in economics and becoming president of its debate organization, the Cambridge Union. Following her education at Cambridge, Huffington pursued her writing career. She published her first book, The Female Woman, in 1974. Then, in 1980, Huffington began her political work. Following multiple campaigns for office and years of political commentary, Huffington launched her website The Huffington Post in 2005. The site started off as a political and news blog, however since then it has blown to a full-fledged online publication. In 2011, Huffington sold the website to AOL for over $300 million.",
 		"achievements": "Huffington has appeared on the Time magazine's 100 list, the 100 most influential people in the world, and Forbes' rundown of ‘The World's 100 Most Powerful Women’. In 2008, The Observer ranked The Huffington Post as the most powerful blog in the world. Huffington's thirteenth book, Third World America: How Our Politicians Are Abandoning the Middle Class and Betraying the American Dream, and her fourteenth, Thrive: The Third Metric to Redefining Success and Creating a Life of Well-Being, Wisdom, and Wonder, topped off at number one on the New York Times Bestseller list.",
@@ -128,7 +128,7 @@
 			"https://www.huffingtonpost.com/author/arianna-huffington"
 		],
 		"urls": {
-			"Arianna Huffington's TED Talk" : "https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep"
+			"Arianna Huffington's TED Talk": "https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep"
 		}
-}
+	}
 ]
